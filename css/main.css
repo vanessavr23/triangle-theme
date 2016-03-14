@@ -1,0 +1,219 @@
+.social-icons .nav .fa {
+  color: #D3D3D3; }
+
+header .navbar {
+  background: #fff;
+  border: none; }
+
+.navbar-collapse .nav li.active > a {
+  background-color: transparent;
+  border: transparent;
+  color: #d29948; }
+
+a:hover {
+  background: #dbb075 !important;
+  color: #fff !important;
+  text-decoration: none; }
+
+.navbar-brand h1 {
+  margin: 0;
+  padding: 0; }
+
+h1, h2, h3, h4 {
+  color: #686868;
+  font-family: "Lato", sans-serif;
+  font-weight: 300; }
+
+h1 {
+  margin-top: 70px;
+  margin-bottom: 25px; }
+
+h2 {
+  font-size: 24px; }
+
+h3 {
+  font-size: 18px; }
+
+#home-slider {
+  background: url(../images/home/slider-bg.png) 0 100%;
+  background-repeat: repeat-x; }
+  #home-slider .main-slider {
+    position: relative;
+    height: 450px; }
+  #home-slider .slide-text {
+    width: 450px;
+    position: absolute;
+    top: 50px;
+    left: 0; }
+  #home-slider .btn-common {
+    margin-top: 20px; }
+  #home-slider .slider-house {
+    position: absolute;
+    right: 0;
+    bottom: 0; }
+  #home-slider .slider-circle1 {
+    position: absolute;
+    right: 430px;
+    bottom: 210px; }
+  #home-slider .slider-circle2 {
+    position: absolute;
+    right: 420px;
+    bottom: 245px; }
+  #home-slider .slider-cloud1 {
+    position: absolute;
+    right: 290px;
+    bottom: 250px; }
+  #home-slider .slider-cloud2 {
+    position: absolute;
+    right: 375px;
+    bottom: 330px; }
+  #home-slider .slider-cloud3 {
+    position: absolute;
+    right: 75px;
+    bottom: 300px; }
+  #home-slider .slider-sun {
+    position: absolute;
+    right: 190px;
+    bottom: 300px; }
+  #home-slider .slider-cycle {
+    position: absolute;
+    right: 500px;
+    bottom: 0px; }
+
+.btn-common {
+  padding: 10px 25px;
+  font-size: 14px;
+  color: #797979;
+  border: 1px solid #dbb075;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 300; }
+
+.padding {
+  padding: 65px 0; }
+
+.single-service {
+  overflow: hidden;
+  display: block;
+  padding: 0 40px; }
+  .single-service img {
+    height: 85px;
+    margin-bottom: 35px; }
+
+#action {
+  background-image: url(../images/home/tour-bg.png);
+  background-repeat: repeat-x;
+  background-position: center;
+  background-color: #fbfafa;
+  height: 55px;
+  display: table;
+  width: 100%;
+  margin-bottom: 30px; }
+
+.action h1 {
+  margin-top: 0; }
+.action p {
+  font-size: 18px;
+  margin-bottom: 0;
+  font-weight: 300px; }
+.action .col-sm-7 {
+  margin-top: 20px;
+  margin-bottom: 60px; }
+.action .col-sm-5 {
+  position: absolute;
+  height: 100%;
+  right: 0; }
+.action .btn-common {
+  margin: 55px -12px;
+  float: left; }
+
+.tour-button {
+  background-image: url(../images/home/tour-icon2.png);
+  background-repeat: no-repeat;
+  background-position: 152px 4px;
+  height: 100%; }
+
+.title {
+  color: #404040;
+  font-weight: 300; }
+
+.single-features {
+  overflow: hidden;
+  padding-top: 65px;
+  padding-bottom: 40px; }
+
+.align-right {
+  text-align: right; }
+
+#clients {
+  padding-bottom: 45px; }
+
+.clients img {
+  display: inline-block; }
+
+.clients-logo {
+  overflow: hidden;
+  margin-bottom: 10px; }
+
+#footer {
+  padding-bottom: 75px;
+  background-image: url(../images/home/footer.png);
+  background-repeat: repeat-x;
+  background-position: bottom;
+  background-size: contain; }
+
+#footer .bottom-separator {
+  margin-bottom: 60px; }
+
+.inline {
+  display: inline-block; }
+
+.bottom > h2 {
+  margin-bottom: 60px; }
+
+.bottom .media-body h3 {
+  padding-left: 22px;
+  padding-top: 0px; }
+  .bottom .media-body h3 a {
+    color: #d99c4e; }
+
+a {
+  color: #a5732a; }
+
+.testimonial .media {
+  margin-bottom: 25px;
+  margin-top: 0; }
+  .testimonial .media .media-body blockquote {
+    padding-left: 25px;
+    padding-right: 30px;
+    position: relative;
+    border-left: 0; }
+
+.form-control {
+  height: 40px;
+  font-weight: 300;
+  outline: none;
+  box-shadow: none;
+  border: 1px solid #d99c4e; }
+
+#message {
+  height: 110px;
+  resize: none; }
+
+.btn-submit {
+  width: 100%;
+  padding: 10px;
+  margin-top: 5px;
+  background-color: #d89b4e;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 300;
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  border-bottom: 3px solid #a56617;
+  border-radius: 3px;
+  box-shadow: none; }
+
+.copyright-text {
+  padding-top: 30px; }
+
+/*# sourceMappingURL=main.css.map */
